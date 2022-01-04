@@ -1,0 +1,101 @@
+{
+  "main": {
+    "id": "81ffe6ea176834f7",
+    "type": "split",
+    "children": [
+      {
+        "id": "c4b62a8ff5a4bf8b",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Классические Черепашки-Ниндзя Рассказы 5-7.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9eb5b48be0c79356",
+    "type": "split",
+    "children": [
+      {
+        "id": "9bb8c6425b912618",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bf0d4040855afc5a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "13c4832d8ef8a126",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "sanka rea",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e410918f5dfb5cd8",
+    "type": "split",
+    "children": [
+      {
+        "id": "b783d44a76df3c65",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "949b033e3d293419",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Классические Черепашки-Ниндзя Рассказы 5-7.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "c4b62a8ff5a4bf8b",
+  "lastOpenFiles": [
+    "Классические Черепашки-Ниндзя Рассказы 5-7.md",
+    "Sankarea 01-12 END.md",
+    "S詩  Садистские стишки.md",
+    "Желания в NetHack (часть 12).md",
+    "SHINSEKAI.md",
+    "Как перестать играть в Bejeweled 3 и начать жить.md",
+    "pics/0ab9cf778a5ft.jpg",
+    "Futari wa Precure (27) 28-49 END.md",
+    "BEATLESS 01-24 (28) END.md",
+    "Amamiya Yuuko  雨宮優子.md"
+  ]
+}
