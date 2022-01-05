@@ -46,7 +46,7 @@ Mieruko-chan 01-12 END
   [![](pics/1c08e0df4c4bt.jpg)](https://a.radikal.ru/a41/2112/4c/1c08e0df4c4b.png)    
  Ктулху, купить тебе что-нибудь?   
    
-  [![](pics/a75b35da2959t.jpg)](https://b.radikal.ru/b10/2112/b3/a75b35da2959.png)    
+  [![](pics/b293aca75e91t.jpg)](https://a.radikal.ru/a29/2201/07/b293aca75e91.png)    
  Вот как раз момент с туалетом. Главная героиня думала, что там призрак, но это оказалось не так.   
  (призрак -- в соседней кабинке)   
    

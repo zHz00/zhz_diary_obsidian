@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Классические Черепашки-Ниндзя Рассказы 5-7.md",
+            "file": "Удаление чатов в телеграме что вас ждёт.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "sanka rea",
+                "query": "киберсквот",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -48,7 +48,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -68,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Классические Черепашки-Ниндзя Рассказы 5-7.md",
+                "file": "Удаление чатов в телеграме что вас ждёт.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,6 +88,7 @@
   },
   "active": "c4b62a8ff5a4bf8b",
   "lastOpenFiles": [
+    "Удаление чатов в телеграме что вас ждёт.md",
     "Классические Черепашки-Ниндзя Рассказы 5-7.md",
     "Sankarea 01-12 END.md",
     "S詩  Садистские стишки.md",
@@ -95,7 +97,6 @@
     "Как перестать играть в Bejeweled 3 и начать жить.md",
     "pics/0ab9cf778a5ft.jpg",
     "Futari wa Precure (27) 28-49 END.md",
-    "BEATLESS 01-24 (28) END.md",
-    "Amamiya Yuuko  雨宮優子.md"
+    "BEATLESS 01-24 (28) END.md"
   ]
 }
