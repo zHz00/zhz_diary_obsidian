@@ -1,32 +1,29 @@
 {
   "main": {
-    "id": "81ffe6ea176834f7",
+    "id": "2d9077e8351f3f34",
     "type": "split",
     "children": [
       {
-        "id": "c4b62a8ff5a4bf8b",
+        "id": "d704f0865de1580f",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Удаление чатов в телеграме что вас ждёт.md",
-            "mode": "source"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "9eb5b48be0c79356",
+    "id": "c1d2ad503f5e106d",
     "type": "split",
     "children": [
       {
-        "id": "9bb8c6425b912618",
+        "id": "c1b68eb0ed1d3e42",
         "type": "tabs",
         "children": [
           {
-            "id": "bf0d4040855afc5a",
+            "id": "51e8bf426492a8cd",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -34,12 +31,12 @@
             }
           },
           {
-            "id": "13c4832d8ef8a126",
+            "id": "7f2c4f3217dfe111",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "киберсквот",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -48,28 +45,26 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
   "right": {
-    "id": "e410918f5dfb5cd8",
+    "id": "3fb3588377122aa6",
     "type": "split",
     "children": [
       {
-        "id": "b783d44a76df3c65",
+        "id": "3a36e478f4e1a122",
         "type": "tabs",
         "children": [
           {
-            "id": "949b033e3d293419",
+            "id": "b752933c2e99f715",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Удаление чатов в телеграме что вас ждёт.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,17 +81,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "c4b62a8ff5a4bf8b",
+  "active": "d704f0865de1580f",
   "lastOpenFiles": [
-    "Удаление чатов в телеграме что вас ждёт.md",
-    "Классические Черепашки-Ниндзя Рассказы 5-7.md",
-    "Sankarea 01-12 END.md",
-    "S詩  Садистские стишки.md",
-    "Желания в NetHack (часть 12).md",
-    "SHINSEKAI.md",
-    "Как перестать играть в Bejeweled 3 и начать жить.md",
-    "pics/0ab9cf778a5ft.jpg",
-    "Futari wa Precure (27) 28-49 END.md",
-    "BEATLESS 01-24 (28) END.md"
+    "¯_(ツ)_¯.md",
+    "indexes/Календарь.md",
+    "0. Попаданчество в реальности.md",
+    "indexes/Теги.md",
+    "indexes/Список.md",
+    "(no title).md",
+    "Искусство жилетки.md",
+    "indexes/days/AT2016-09-05.md",
+    "^_-.md",
+    "SHINSEKAI Realization.md"
   ]
 }
