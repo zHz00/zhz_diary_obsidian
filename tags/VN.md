@@ -40,3 +40,6 @@
 | 2018&#8209;01&#8209;28 | [[Doki-doki! Literature club!\|Doki-doki! Literature club!]] |
 | 2018&#8209;03&#8209;28 | [[eden  they were only two on the planet, а также PLUS+MOSAIC\|eden  they were only two on the planet, а также PLUS+MOSAIC]] |
 | 2018&#8209;11&#8209;27 | [[F4\|F4]] |
+| 2022&#8209;05&#8209;24 | [[Сохранился ли Илья Муромец перед камнем\|Сохранился ли Илья Муромец перед камнем]] |
+| 2022&#8209;05&#8209;27 | [[Эффект присутствия[0]\|Эффект присутствия[0]]] |
+| 2022&#8209;06&#8209;02 | [[Aoi Sora no Camus\|Aoi Sora no Camus]] |
