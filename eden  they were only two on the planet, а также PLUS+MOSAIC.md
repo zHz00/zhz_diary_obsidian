@@ -1,5 +1,5 @@
-eden * they were only two on the planet, а также PLUS+MOSAIC
-=============================================================
+eden \* they were only two on the planet, а также PLUS+MOSAIC
+==============================================================
 
    
  2018-03-28, 23:59   

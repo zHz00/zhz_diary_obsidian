@@ -8,8 +8,7 @@ In God We Struct
  
 ```
 struct  
-	{  
-		//...  
+	{<br>		//...  
 	} A,B,C;
 ```
    

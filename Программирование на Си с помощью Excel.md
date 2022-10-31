@@ -9,14 +9,7 @@
  
 ```
   
-struct q  
-	{  
-		int field1;  
-		double field2;  
-		int field3;  
-		int field4;  
-...  
-		int fieldN;  
+struct q<br>	{<br>		int field1;<br>		double field2;<br>		int field3;<br>		int field4;<br>...<br>		int fieldN;  
 	};
 ```
    

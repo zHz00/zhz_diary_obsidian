@@ -5,8 +5,8 @@ Edgar Allan Poe // The Black Cat
  2016-07-04, 23:57   
   Попробовал читать По на английском и... понял, что английского я не знаю. Вот например:   
    
- "Beneath the pressure of torments* such as these the feeble* remnant* of the good within me succumbed*."   
- "One night as I sat, half stupefied*, in a den* of more than infamy*, my attention was suddenly drawn to some black object, reposing upon the head of one of the immense* hogsheads* of gin*, or of rum*..."   
+ "Beneath the pressure of torments\* such as these the feeble\* remnant\* of the good within me succumbed\*."   
+ "One night as I sat, half stupefied\*, in a den\* of more than infamy\*, my attention was suddenly drawn to some black object, reposing upon the head of one of the immense\* hogsheads\* of gin\*, or of rum\*..."   
    
  Звёздочками я пометил слова, которых я не знал. Правда, прочитав, что hogshead это бочка, я вспомнил, что gin это джин, а что rum это ром -- догадался. С Алисой в стране чудес таких проблем не возникало. Что ж, английский надо учить.   
    

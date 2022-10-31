@@ -6,14 +6,7 @@ wand of waiting (0:∞)
   
 ```
   
-int t;  
-//...  
-while(!some\_check())  
-	{  
-		cout << "\\|/-"[t=(t+1)%4]<<"\b";  
-		wait();  
-		//...  
-	}  
+int t;<br>//...<br>while(!some\_check())<br>	{<br>		cout << "\\|/-"[t=(t+1)%4]<<"\b";<br>		wait();<br>		//...<br>	}  
 
 ```
    

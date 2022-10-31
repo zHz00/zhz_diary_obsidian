@@ -15,10 +15,7 @@ OBIWAN ERROR
  
 ```
 for(x=1;x<=nStrings;x++)  
-	{  
-		file.read(&size,sizeof(size));  
-		file.read(buf,size);  
-		strcpy(array[x],buf);  
+	{<br>		file.read(&size,sizeof(size));<br>		file.read(buf,size);<br>		strcpy(array[x],buf);  
 	}
 ```
    

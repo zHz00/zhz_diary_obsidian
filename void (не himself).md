@@ -14,8 +14,7 @@ void (не himself)
  
 ```
 void f()  
-	{  
-		return (void)MessageBox(NULL,"I\'m part of void expression", "HELLO",0);  
+	{<br>		return (void)MessageBox(NULL,"I\'m part of void expression", "HELLO",0);  
 	}
 ```
    

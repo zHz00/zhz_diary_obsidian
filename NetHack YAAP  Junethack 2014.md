@@ -22,43 +22,7 @@ NetHack: YAAP // Junethack 2014
  
 ```
 Farvel zHz the Demigoddess...  
-You and the invisible The Wheel Of Fortune and the guardian Angel of Tyr  
-and the invisible Death ![:)](pics/3.gif) and the invisible The Force  
-went to your reward with 4899672 points,  
-Excalibur (worth 4000 zorkmids and 10000 points)  
-The Book of the Dead (worth 10000 zorkmids and 25000 points)  
-Mjollnir (worth 4000 zorkmids and 10000 points)  
-Orcrist (worth 2000 zorkmids and 5000 points)  
-Sting (worth 800 zorkmids and 2000 points)  
-The Bell of Opening (worth 5000 zorkmids and 12500 points)  
-The Orb of Fate (worth 3500 zorkmids and 8750 points)  
-The Candelabrum of Invocation (worth 5000 zorkmids and 12500 points)  
-      13 rubies (worth 45500 zorkmids),  
-      11 black opals (worth 27500 zorkmids),  
-      10 agate stones (worth 2000 zorkmids),  
-      10 jade stones (worth 3000 zorkmids),  
-       9 diamonds (worth 36000 zorkmids),  
-       8 garnet stones (worth 5600 zorkmids),  
-       8 obsidian stones (worth 1600 zorkmids),  
-       7 citrine stones (worth 10500 zorkmids),  
-       7 chrysoberyl stones (worth 4900 zorkmids),  
-       5 dilithium crystals (worth 22500 zorkmids),  
-       5 sapphires (worth 15000 zorkmids),  
-       5 jet stones (worth 4250 zorkmids),  
-       5 amethyst stones (worth 3000 zorkmids),  
-       5 fluorite stones (worth 2000 zorkmids),  
-       4 jacinth stones (worth 13000 zorkmids),  
-       4 emeralds (worth 10000 zorkmids),  
-       4 turquoise stones (worth 8000 zorkmids),  
-       4 amber stones (worth 4000 zorkmids),  
-       4 jasper stones (worth 2000 zorkmids),  
-       1 aquamarine stone (worth 1500 zorkmids),  
-       1 topaz stone (worth 900 zorkmids),  
-       2 amulets of life saving (worth 300 zorkmids),  
-       1 amulet of reflection (worth 150 zorkmids),  
-       1 amulet of magical breathing (worth 150 zorkmids),  
-and 71130 pieces of gold, after 76878 moves.  
-Killer: ascended  
+You and the invisible The Wheel Of Fortune and the guardian Angel of Tyr<br>and the invisible Death <img class="smile" alt=":)" src="pics/3.gif"> and the invisible The Force<br>went to your reward with 4899672 points,<br>Excalibur (worth 4000 zorkmids and 10000 points)<br>The Book of the Dead (worth 10000 zorkmids and 25000 points)<br>Mjollnir (worth 4000 zorkmids and 10000 points)<br>Orcrist (worth 2000 zorkmids and 5000 points)<br>Sting (worth 800 zorkmids and 2000 points)<br>The Bell of Opening (worth 5000 zorkmids and 12500 points)<br>The Orb of Fate (worth 3500 zorkmids and 8750 points)<br>The Candelabrum of Invocation (worth 5000 zorkmids and 12500 points)<br>      13 rubies (worth 45500 zorkmids),<br>      11 black opals (worth 27500 zorkmids),<br>      10 agate stones (worth 2000 zorkmids),<br>      10 jade stones (worth 3000 zorkmids),<br>       9 diamonds (worth 36000 zorkmids),<br>       8 garnet stones (worth 5600 zorkmids),<br>       8 obsidian stones (worth 1600 zorkmids),<br>       7 citrine stones (worth 10500 zorkmids),<br>       7 chrysoberyl stones (worth 4900 zorkmids),<br>       5 dilithium crystals (worth 22500 zorkmids),<br>       5 sapphires (worth 15000 zorkmids),<br>       5 jet stones (worth 4250 zorkmids),<br>       5 amethyst stones (worth 3000 zorkmids),<br>       5 fluorite stones (worth 2000 zorkmids),<br>       4 jacinth stones (worth 13000 zorkmids),<br>       4 emeralds (worth 10000 zorkmids),<br>       4 turquoise stones (worth 8000 zorkmids),<br>       4 amber stones (worth 4000 zorkmids),<br>       4 jasper stones (worth 2000 zorkmids),<br>       1 aquamarine stone (worth 1500 zorkmids),<br>       1 topaz stone (worth 900 zorkmids),<br>       2 amulets of life saving (worth 300 zorkmids),<br>       1 amulet of reflection (worth 150 zorkmids),<br>       1 amulet of magical breathing (worth 150 zorkmids),<br>and 71130 pieces of gold, after 76878 moves.<br>Killer: ascended  
 You were level 30 with a maximum of 254 hit points when you ascended.
 ```
    
@@ -258,23 +222,23 @@ You were level 30 with a maximum of 254 hit points when you ascended.
  Matagami offers 100 gold pieces for your gold ring named U. Sell it? [ynaq]   
  (y) -- free action   
    
- What do you want to drop? [a-eg-knoqsvxBD-FH-OR-UWX or ?*]   
+ What do you want to drop? [a-eg-knoqsvxBD-FH-OR-UWX or ?\*]   
  Matagami offers 75 gold pieces for your jade ring. Sell it? [ynaq] (y)   
  You drop an uncursed jade ring.   
- What do you want to drop? [a-eg-knoqsvxBD-FH-OQ-UWX or ?*]   
+ What do you want to drop? [a-eg-knoqsvxBD-FH-OQ-UWX or ?\*]   
  Matagami offers 57 gold pieces for your bronze ring. Sell it? [ynaq] (y)   
  You drop a blessed bronze ring.   
- What do you want to drop? [a-eg-knoqsvxBD-OQ-UWX or ?*]   
+ What do you want to drop? [a-eg-knoqsvxBD-OQ-UWX or ?\*]   
  Matagami offers 50 gold pieces for your ruby ring. Sell it? [ynaq] (y)   
  You drop an uncursed ruby ring.   
- What do you want to drop? [a-eg-kn-qsvxBD-OQ-UWX or ?*]   
+ What do you want to drop? [a-eg-kn-qsvxBD-OQ-UWX or ?\*]   
  Matagami offers 75 gold pieces for your pearl ring. Sell it? [ynaq] (y)   
  You drop a cursed pearl ring.   
    
    
  Matagami offers 100 gold pieces for your wand called ?3. Sell it? [ynaq] (y)   
  You drop an uncursed wand called ?3.   
- What do you want to drop? [ac-fh-km-qt-wACE-NPQS-XZ or ?*]   
+ What do you want to drop? [ac-fh-km-qt-wACE-NPQS-XZ or ?\*]   
  Matagami offers 100 gold pieces for your wand called ?5. Sell it? [ynaq] (y)   
  You drop a wand called ?5.   
      

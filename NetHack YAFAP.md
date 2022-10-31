@@ -414,7 +414,7 @@ NetHack: YAFAP
    
    [![](pics/7d14dd92e048t.jpg)](http://radikal.ru/F/s020.radikal.ru/i709/1305/8c/7d14dd92e048.png)     
    
- What do you want to sacrifice? [l or ?*] l   
+ What do you want to sacrifice? [l or ?\*] l   
  You offer the Amulet of Yendor to Anhur... An invisible choir sings, and you are bathed in radiance...   
  The voice of Anhur booms out: "Congratulations, mortal!"   
  "In return for thy service, I grant thee the gift of Immortality!"   

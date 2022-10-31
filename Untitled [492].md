@@ -9,22 +9,7 @@ Untitled [492]
  
 ```
   
-    int nx, ny, nresx, nresy;  
-    char file\_list[80][261];  
-    unsigned stx[80], sty[80];  
-    fscanf(f, "%d %d %d %d\n", &nx, &ny, &nresx, &nresy);  
-    int nitems, nfiles;  
-    for(nfiles = 0, nitems = 0; !feof(f); nitems++, (strcmp(file\_list[nfiles], "-") &&  
- (file\_list[nfiles][0] != '\0')) ? nfiles++ : 0/*иначе ничего*/)  
-        {  
-            fgets(file\_list[nfiles], 261, f), file\_list[nfiles][strlen(file\_list[nfiles]) - 1] = '\0';  
-            if(strcmp(file\_list[nfiles], "-"))  
-                {  
-                    fscanf(f, "%d %d\n", &stx[nfiles], &sty[nfiles]);  
-                }  
-        }  
-  
-    //nitems--;//  |---+----\\_\_\_\_\_\_\_.    КОСТЫЛЬ  
+    int nx, ny, nresx, nresy;<br>    char file\_list[80][261];<br>    unsigned stx[80], sty[80];<br>    fscanf(f, "%d %d %d %d\n", &nx, &ny, &nresx, &nresy);<br>    int nitems, nfiles;<br>    for(nfiles = 0, nitems = 0; !feof(f); nitems++, (strcmp(file\_list[nfiles], "-") &&<br> (file\_list[nfiles][0] != '\0')) ? nfiles++ : 0/\*иначе ничего\*/)<br>        {<br>            fgets(file\_list[nfiles], 261, f), file\_list[nfiles][strlen(file\_list[nfiles]) - 1] = '\0';<br>            if(strcmp(file\_list[nfiles], "-"))<br>                {<br>                    fscanf(f, "%d %d\n", &stx[nfiles], &sty[nfiles]);<br>                }<br>        }<br><br>    //nitems--;//  |---+----\\_\_\_\_\_\_\_.    КОСТЫЛЬ  
     //nfiles--;//  |---+----/            КОСТЫЛЬ
 ```
    

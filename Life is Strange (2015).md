@@ -4,9 +4,9 @@ Life is Strange (2015)
    
  2016-12-15, 23:52   
     *Вчера я видела оленя...   
- (С) ГлаДОС из Портал 2   
+ (С) ГлаДОС из Портал 2*    
    
- Our reports showed a massive anomaly   
+  *Our reports showed a massive anomaly   
  in the timespace continuum.   
  Timelines jumping left and right,   
  stopping and starting...   

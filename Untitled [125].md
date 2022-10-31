@@ -7,19 +7,7 @@ Untitled [125]
  
 ```
   
-void a();  
-void b();  
-void c();  
-void d();  
-  
-int main()  
-{  
-	a();  
-	b();  
-	c();  
-	d();  
-	return 0;  
-}  
+void a();<br>void b();<br>void c();<br>void d();<br><br>int main()<br>{<br>	a();<br>	b();<br>	c();<br>	d();<br>	return 0;<br>}  
 
 ```
    

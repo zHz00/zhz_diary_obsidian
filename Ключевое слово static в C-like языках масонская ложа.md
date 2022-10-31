@@ -18,17 +18,7 @@
   **Пример.**  
 ```
 void f(void)  
-	{  
-		static int n=0;  
-		printf("n=%d\n",n);  
-		n++;  
-	}  
-  
-int main (void)  
-	{  
-		f();  
-		f();  
-		f();  
+	{<br>		static int n=0;<br>		printf("n=%d\n",n);<br>		n++;<br>	}<br><br>int main (void)<br>	{<br>		f();<br>		f();<br>		f();  
 	}
 ```
  На экране должно появиться:   
@@ -96,7 +86,7 @@ struct A
 		A(){a=0;}  
 	};  
   
-int A::i=5;//*  
+int A::i=5;//\*  
   
 int main(void)  
 	{  
@@ -149,7 +139,7 @@ a.f();
 ```
  А на самом деле это (я по ассемблеру проверил): 
 ```
-void f(A *this)  
+void f(A \*this)  
 	{  
 		this->a=3;  
 	}  
@@ -174,24 +164,24 @@ struct A
 		int i;  
 		static DWORD ThreadFunc(LPVOID \_this)  
 			{  
-				for(;![;)](pics/1136.gif)  
+				for(;![;)](http://static.diary.ru/picture/1136.gif)  
 					{  
-						((A*)\_this)->i++;  
+						((A\*)\_this)->i++;  
 						Sleep(1);  
 					}  
 			}  
 	};  
 //...  
 A a,b,c;  
-CreateThread(NULL,0,ThreadFunc,(void*)&a,0,NULL);  
-CreateThread(NULL,0,ThreadFunc,(void*)&b,0,NULL);  
-CreateThread(NULL,0,ThreadFunc,(void*)&c,0,NULL);
+CreateThread(NULL,0,ThreadFunc,(void\*)&a,0,NULL);  
+CreateThread(NULL,0,ThreadFunc,(void\*)&b,0,NULL);  
+CreateThread(NULL,0,ThreadFunc,(void\*)&c,0,NULL);
 ```
  CreateThread создаёт новый поток программы, который выполняется  *одновременно*  с main. В качестве третьего параметра функция хочет получить указатель на функцию со следующим прототипом: 
 ```
-DWORD ThreadFunc(LPVOID *p);
+DWORD ThreadFunc(LPVOID \*p);
 ```
- Возвращаемое значение нужно как результат работы функции. А указатель в качестве параметра (LPVOID это то же, что и void*) позволяет функции потока понять, с какими данными работать.   
+ Возвращаемое значение нужно как результат работы функции. А указатель в качестве параметра (LPVOID это то же, что и void\*) позволяет функции потока понять, с какими данными работать.   
    
  Четвёртый параметр CreateThread является тем самым указателем, который потом передаётся функции потока. (остальные параметры в данном случае значения не имеют)   
    

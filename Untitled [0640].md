@@ -13,7 +13,7 @@ Untitled [0640]
    
  This book contains a scene, where Limonov sucks a Negro's dick.   
    
- * * *   
+ \* \* \*   
    
  Eduard Limonov was asked for an interview. He thinks: "They always ask me about that Negro. How should I answer that time?"   
    
@@ -34,7 +34,7 @@ Untitled [0640]
    
  "Yes, this is an excellent answer", he decided and went for an interview.   
    
- * * *   
+ \* \* \*   
    
  The interview begins. The journalist says:   
    

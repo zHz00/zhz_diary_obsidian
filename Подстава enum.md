@@ -12,11 +12,7 @@
  
 ```
 enum ValType  
-{  
-	VT\_BYTE,  
-	VT\_INT,  
-	VT\_FLOAT,  
-	VT\_STRING  
+{<br>	VT\_BYTE,<br>	VT\_INT,<br>	VT\_FLOAT,<br>	VT\_STRING  
 };
 ```
    

@@ -79,13 +79,13 @@ Katawa Shoujo (Инвалидки) -- 100% + walkthrough
  9. +I'm not in very good condition / I don't want to talk about...   
   **SAVE**    
  10. +Go to town / Go to library   
- 11. *Avoid / +Tell truth   
- 12. +Humor him / *Ignore ramblings   
- 13. *Keep it to myself / +Ask about Hanako   
- 14. *Wave her off / +Address it   
- 15. *What do you think about Hanako? / +about school   
- 16. +Mention the letter / *Drop subject   
- * = LILLY NEUTRAL END, + = LILLY GOOD END   
+ 11. \*Avoid / +Tell truth   
+ 12. +Humor him / \*Ignore ramblings   
+ 13. \*Keep it to myself / +Ask about Hanako   
+ 14. \*Wave her off / +Address it   
+ 15. \*What do you think about Hanako? / +about school   
+ 16. +Mention the letter / \*Drop subject   
+ \* = LILLY NEUTRAL END, + = LILLY GOOD END   
      
   [Hanako](https://zHz00.diary.ru/p175033366.htm?index=6#linkmore175033366m6)      
   **HANAKO ROUTE**    

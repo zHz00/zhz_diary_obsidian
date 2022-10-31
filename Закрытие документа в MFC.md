@@ -8,7 +8,7 @@
  Итак, надо закрыть документ в MDI приложении MFC. Как это сделать?   
  Всё не так просто. Допустим, CDocument1 -- класс, производный от CDocument. Если вы создали об'ект как:   
    
- CDocument1 *pDoc=new CDocument1();   
+ CDocument1 \*pDoc=new CDocument1();   
    
  Потом наполнили его содержимым (без создания вида -- класса, производного от CView), то удалять его надо так:   
    
@@ -16,7 +16,7 @@
    
  А если вы его создали так:   
    
- CDocument1 *pDoc=OpenDocumentFile("Filename.ext");   
+ CDocument1 \*pDoc=OpenDocumentFile("Filename.ext");   
  где OpenDocumentFile -- член классов, производных от CWinApp или CDocumentTemplate.   
    
  То удалять надо так:   
