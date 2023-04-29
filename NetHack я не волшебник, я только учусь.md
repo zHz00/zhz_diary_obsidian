@@ -15,6 +15,7 @@ NetHack: я не волшебник, я только учусь
   **2.1 Вход в режим исследования**    
  Войти в этот режим можно двумя способами: * В любой момент во время игры надо нажать Shift+X. После ответа "y" на запрос   
  Do you want to enter explore mode? [yn] (n);
+  
 * Задание входа в режим ещё до начала игры. Для этого надо запустить игру с параметром -X. Например:   
  nethackw.exe -X   
  При этом вы получите палочку исполнения желаний.
@@ -655,7 +656,7 @@ F|R
    
    
  В случае, если когда-либо nethackwiki перестанет работать, её материалы можно найти в Архиве Интернета:  [web.archive.org/](https://web.archive.org/)    
- Связаться с автором можно по адресу  [mailto:  [email protected]](/cdn-cgi/l/email-protection#dba1b3a1ebeb9ba9bab6b9b7bea9f5a9ae)  .   
+ Связаться с автором можно по адресу  [mailto:  [email protected]](/cdn-cgi/l/email-protection#e3998b99d3d3a391828e818f8691cd9196)  .   
      
     
  <https://diary.ru/~zHz00/p194493970_nethack-ya-ne-volshebnik-ya-tolko-uchus.htm>   

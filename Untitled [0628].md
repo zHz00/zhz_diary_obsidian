@@ -3,7 +3,7 @@ Untitled [0628]
 
    
  2020-11-21, 23:59   
-  На днях во Владивостоке бетонная плита  [придавила автомобиль](https://meduza.io/feature/2020/11/19/vo-vladivostoke-betonnaya-plita-upala-s-kryshi-devyatietazhnogo-doma-na-avtomobil-ego-vladelets-chistivshiy-kapot-ot-snega-uspel-ubezhat)  .   
+  На днях во Владивостоке бетонная плита  [придавила автомобиль](https://rg.ru/2020/11/19/reg-dfo/vo-vladivostoke-betonnaia-plita-razdavila-avtomobil.html)  .   
    
    [![](pics/wXIHmpG.png)](pics/wXIHmpG.png)     
     

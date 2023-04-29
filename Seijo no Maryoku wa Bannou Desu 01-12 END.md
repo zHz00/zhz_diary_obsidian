@@ -55,7 +55,7 @@ Seijo no Maryoku wa Bannou Desu 01-12 END
   [![](pics/0cf1a5225386t.jpg)](https://d.radikal.ru/d09/2107/4f/0cf1a5225386.jpg)    
  Что с габаритом руки?   
    
-      
+  [конец]     
     
  <https://diary.ru/~zHz00/p220789145_seijo-no-maryoku-wa-bannou-desu-01-12-end.htm>   
    
