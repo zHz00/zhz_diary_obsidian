@@ -1,9 +1,9 @@
 Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan o Erande Iraremasen 01-14 END
-=====================================================================================
+====================================================================================
 
-   
- 2020-01-09, 23:59   
-   **О чём**    
+  
+2020-01-09, 23:59  
+  **О чём**    
    
  Попаданка переродилась в теле пятилетней девочки и решила стать Гутенбергом! И у неё получилось!   
    
@@ -56,9 +56,13 @@ Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan o Erande Iraremasen 01-14
   [![](pics/W9oJLbXl.png)](https://i.imgur.com/W9oJLbX.png)    
  :3   
       
-    
- <https://diary.ru/~zHz00/p218849167_honzuki-no-gekokujou-shisho-ni-naru-tame-ni-wa-shudan-o-erande-iraremasen-01-14-end.htm>   
-   
- Теги:   
- [[Аниме]]   
- ID: p218849167
+  
+<https://diary.ru/~zHz00/p218849167_honzuki-no-gekokujou-shisho-ni-naru-tame-ni-wa-shudan-o-erande-iraremasen-01-14-end.htm>  
+  
+Теги:  
+[[Аниме]]  
+ID: p218849167  
+
+
+(Комментариев нет)
+------------------

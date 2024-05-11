@@ -1,9 +1,9 @@
 Socrates Jones: Pro Philosopher
-================================
+===============================
 
-   
- 2013-10-06, 16:07   
-   [Играть тут](http://www.kongregate.com/games/ChiefWakamakamu/socrates-jones-pro-philosopher)    
+  
+2013-10-06, 16:07  
+  [Играть тут](http://www.kongregate.com/games/ChiefWakamakamu/socrates-jones-pro-philosopher)    
    
  Описание: Простой бухгалтер из Нью-Йорка оказывается в Мире Идей, где он должен сразиться в немыслимой битве с величайшими философами и выяснить природу морали, чтобы вернуться на Землю.   
  Оценочное время прохождения: 3-6 часов.   
@@ -42,9 +42,13 @@ Socrates Jones: Pro Philosopher
  5 уровень: 0 ошибок   
  6 уровень: 1 ошибка   
  Credibility до нуля ни разу не падала.     
-    
- <https://diary.ru/~zHz00/p192167967_socrates-jones-pro-philosopher.htm>   
-   
- Теги:   
- [[Игры]]   
- ID: p192167967
+  
+<https://diary.ru/~zHz00/p192167967_socrates-jones-pro-philosopher.htm>  
+  
+Теги:  
+[[Игры]]  
+ID: p192167967  
+
+
+(Комментариев нет)
+------------------

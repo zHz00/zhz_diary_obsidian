@@ -1,9 +1,9 @@
 Konyakuhaki Sareta Reijou o Hirotta Ore ga, Ikenai Koto o Oshiekomu 01-12 END
-==============================================================================
+=============================================================================
 
-   
- 2024-01-04, 04:16   
-   **О чём**    
+  
+2024-01-04, 04:16  
+  **О чём**    
    
  Что можно сделать из сериала о том, как паренёк подобрал девицу, об'явленную в розыск по ложному обвинению, а потом укрыл её у себя дома? Что угодно. Детектив. Приключения. Социальную драму. Но вместо этого сделали романтическую комедию. Довольно слабенькую.   
    
@@ -64,9 +64,13 @@ Konyakuhaki Sareta Reijou o Hirotta Ore ga, Ikenai Koto o Oshiekomu 01-12 END
   [![](pics/W8G86l.jpg)](https://yapx.ru/image/W8G86)    
  А вы думали, что магия это просто?   
       
-    
- <https://diary.ru/~zHz00/p221866576_konyakuhaki-sareta-reijou-o-hirotta-ore-ga-ikenai-koto-o-oshiekomu-01-12-end.htm>   
-   
- Теги:   
- [[Аниме]]   
- ID: p221866576
+  
+<https://diary.ru/~zHz00/p221866576_konyakuhaki-sareta-reijou-o-hirotta-ore-ga-ikenai-koto-o-oshiekomu-01-12-end.htm>  
+  
+Теги:  
+[[Аниме]]  
+ID: p221866576  
+
+
+(Комментариев нет)
+------------------

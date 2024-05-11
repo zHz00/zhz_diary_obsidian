@@ -1,9 +1,9 @@
 Dungeon ni Deai o Motomeru no wa Machigatte Iru Darouka Gaiden: Sword Oratoria 01-12 END
-=========================================================================================
+========================================================================================
 
-   
- 2017-12-03, 23:37   
-  Про первый сезон:  [zhz00.diary.ru/p204927336.htm](Dungeon%20ni%20Deai%20wo%20Motomeru%20no%20wa%20Machigatte%20iru%20Darou%20ka%2001-13%20END)  .   
+  
+2017-12-03, 23:37  
+ Про первый сезон:  [zhz00.diary.ru/p204927336.htm](Dungeon%20ni%20Deai%20wo%20Motomeru%20no%20wa%20Machigatte%20iru%20Darou%20ka%2001-13%20END)  .   
    
  В общем, второй сезон -- это не продолжение первого. Это параллельная история, в центре которой -- Айз Валенштайн. Я бы даже сказал, что история другого жанра. В первом сезоне были, в основном, приключения и гарем. Тут же -- скандалы, интриги, расследования+комедия.   
    
@@ -44,10 +44,41 @@ Dungeon ni Deai o Motomeru no wa Machigatte Iru Darouka Gaiden: Sword Oratoria 0
    
   [![](pics/H6yUZXUl.png)](https://i.imgur.com/H6yUZXU.png)    
       
-    
- <https://diary.ru/~zHz00/p214322511_dungeon-ni-deai-o-motomeru-no-wa-machigatte-iru-darouka-gaiden-sword-oratoria-01-12-end.htm>   
-   
- Теги:   
- [[Скандинавия]]   
- [[Аниме]]   
- ID: p214322511
+  
+<https://diary.ru/~zHz00/p214322511_dungeon-ni-deai-o-motomeru-no-wa-machigatte-iru-darouka-gaiden-sword-oratoria-01-12-end.htm>  
+  
+Теги:  
+[[Скандинавия]]  
+[[Аниме]]  
+ID: p214322511  
+
+
+Комментарии: 2
+--------------
+
+  
+
+
+---
+
+
+
+|         #         |              Дата              |                     Автор                     |           ID           |
+| --- | --- | --- | --- |
+| (1/2) | 2017-12-04, 14:54 | Heyzer | c727841843 |
+
+  
+ Почему ты ничего не пишешь про Махотсукаи?   
+ ^c727841843
+
+---
+
+
+
+|         #         |              Дата              |                     Автор                     |           ID           |
+| --- | --- | --- | --- |
+| (2/2) | 2017-12-04, 16:43 | zHz00 | c727844831 |
+
+  
+  [Heyzer](http://heyzero.diary.ru "Orca")  , как досмотрю -- напишу про всё сразу. Раньше я часто писал посты по КУСКАМ сериалов, но теперь так почти не делаю.   
+ ^c727844831

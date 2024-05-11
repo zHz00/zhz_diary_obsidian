@@ -1,9 +1,9 @@
 NetHack: YAAP // Junethack 2014
-================================
+===============================
 
-   
- 2014-07-01, 22:43   
-    *-- Милорд, я принёс ваш меч!   
+  
+2014-07-01, 22:43  
+   *-- Милорд, я принёс ваш меч!   
  -- Мы с Уолтером отправились в тот дом,   
  где вас держали, -- пояснила Маванви,   
  не отстававшая от него ни на шаг. -- Но вас там уже не было.   
@@ -22,7 +22,43 @@ NetHack: YAAP // Junethack 2014
  
 ```
 Farvel zHz the Demigoddess...  
-You and the invisible The Wheel Of Fortune and the guardian Angel of Tyr<br>and the invisible Death <img class="smile" alt=":)" src="pics/3.gif"> and the invisible The Force<br>went to your reward with 4899672 points,<br>Excalibur (worth 4000 zorkmids and 10000 points)<br>The Book of the Dead (worth 10000 zorkmids and 25000 points)<br>Mjollnir (worth 4000 zorkmids and 10000 points)<br>Orcrist (worth 2000 zorkmids and 5000 points)<br>Sting (worth 800 zorkmids and 2000 points)<br>The Bell of Opening (worth 5000 zorkmids and 12500 points)<br>The Orb of Fate (worth 3500 zorkmids and 8750 points)<br>The Candelabrum of Invocation (worth 5000 zorkmids and 12500 points)<br>      13 rubies (worth 45500 zorkmids),<br>      11 black opals (worth 27500 zorkmids),<br>      10 agate stones (worth 2000 zorkmids),<br>      10 jade stones (worth 3000 zorkmids),<br>       9 diamonds (worth 36000 zorkmids),<br>       8 garnet stones (worth 5600 zorkmids),<br>       8 obsidian stones (worth 1600 zorkmids),<br>       7 citrine stones (worth 10500 zorkmids),<br>       7 chrysoberyl stones (worth 4900 zorkmids),<br>       5 dilithium crystals (worth 22500 zorkmids),<br>       5 sapphires (worth 15000 zorkmids),<br>       5 jet stones (worth 4250 zorkmids),<br>       5 amethyst stones (worth 3000 zorkmids),<br>       5 fluorite stones (worth 2000 zorkmids),<br>       4 jacinth stones (worth 13000 zorkmids),<br>       4 emeralds (worth 10000 zorkmids),<br>       4 turquoise stones (worth 8000 zorkmids),<br>       4 amber stones (worth 4000 zorkmids),<br>       4 jasper stones (worth 2000 zorkmids),<br>       1 aquamarine stone (worth 1500 zorkmids),<br>       1 topaz stone (worth 900 zorkmids),<br>       2 amulets of life saving (worth 300 zorkmids),<br>       1 amulet of reflection (worth 150 zorkmids),<br>       1 amulet of magical breathing (worth 150 zorkmids),<br>and 71130 pieces of gold, after 76878 moves.<br>Killer: ascended  
+You and the invisible The Wheel Of Fortune and the guardian Angel of Tyr
+and the invisible Death <img class="smile" alt=":)" src="http://static.diary.ru/picture/3.gif"> and the invisible The Force
+went to your reward with 4899672 points,
+Excalibur (worth 4000 zorkmids and 10000 points)
+The Book of the Dead (worth 10000 zorkmids and 25000 points)
+Mjollnir (worth 4000 zorkmids and 10000 points)
+Orcrist (worth 2000 zorkmids and 5000 points)
+Sting (worth 800 zorkmids and 2000 points)
+The Bell of Opening (worth 5000 zorkmids and 12500 points)
+The Orb of Fate (worth 3500 zorkmids and 8750 points)
+The Candelabrum of Invocation (worth 5000 zorkmids and 12500 points)
+      13 rubies (worth 45500 zorkmids),
+      11 black opals (worth 27500 zorkmids),
+      10 agate stones (worth 2000 zorkmids),
+      10 jade stones (worth 3000 zorkmids),
+       9 diamonds (worth 36000 zorkmids),
+       8 garnet stones (worth 5600 zorkmids),
+       8 obsidian stones (worth 1600 zorkmids),
+       7 citrine stones (worth 10500 zorkmids),
+       7 chrysoberyl stones (worth 4900 zorkmids),
+       5 dilithium crystals (worth 22500 zorkmids),
+       5 sapphires (worth 15000 zorkmids),
+       5 jet stones (worth 4250 zorkmids),
+       5 amethyst stones (worth 3000 zorkmids),
+       5 fluorite stones (worth 2000 zorkmids),
+       4 jacinth stones (worth 13000 zorkmids),
+       4 emeralds (worth 10000 zorkmids),
+       4 turquoise stones (worth 8000 zorkmids),
+       4 amber stones (worth 4000 zorkmids),
+       4 jasper stones (worth 2000 zorkmids),
+       1 aquamarine stone (worth 1500 zorkmids),
+       1 topaz stone (worth 900 zorkmids),
+       2 amulets of life saving (worth 300 zorkmids),
+       1 amulet of reflection (worth 150 zorkmids),
+       1 amulet of magical breathing (worth 150 zorkmids),
+and 71130 pieces of gold, after 76878 moves.
+Killer: ascended  
 You were level 30 with a maximum of 254 hit points when you ascended.
 ```
    
@@ -97,7 +133,7 @@ You were level 30 with a maximum of 254 hit points when you ascended.
 |  The Force  |  джинн→  красный дракон  |  76650  |  76768  |  не установлена  |  Астральный План  |
 |  The Force  |  джинн→  красный дракон  |  76760  |  76878  |  вознесение  |  Астральный План  |
 |  (The Hanged Man)  |  Ангел-хранитель Тира  |  76760  |  76878  |  вознесение  |  Астральный План  |
-|  Death :) |  Архон  |  76763  |  76878  |  вознесение  |  Астральный план  |
+|  Death ![:)](pics/3.gif) |  Архон  |  76763  |  76878  |  вознесение  |  Астральный план  |
 
      
    
@@ -482,7 +518,7 @@ You were level 30 with a maximum of 254 hit points when you ascended.
   **О реплеях**    
  Реплеи можно скачать с сервера по адресу:   
   [acehack.de/userdata/zHz/nethack/ttyrec/](http://acehack.de/userdata/zHz/nethack/ttyrec/)    
- Реплеи данного прохождения: с 2014-06-10.17\_00\_35.ttyrec.bz2 до 2014-06-22.17\_30\_25.ttyrec.bz2. Смотреть можно, к примеру, программой termplay из состава  [termrec](https://sourceforge.net/projects/termrec/)  .   
+ Реплеи данного прохождения: с 2014-06-10.17\_00\_35.ttyrec.bz2 до 2014-06-22.17\_30\_25.ttyrec.bz2. Смотреть можно, к примеру, программой termplay из состава  [termrec](http://sourceforge.net/projects/termrec/)  .   
  Также полный реплей содержится в rarjpg (точнее, в 7z-png) в первой картинке (но в её полной версии по щелчку (3.5 мегабайта!), а не в той превьюшке, что видно).   
  Ниже приводится описание серий реплея в формате:   
  имя файла -- Ep.## (время (ход) начала-время конца) -- краткое описание   
@@ -538,10 +574,14 @@ You were level 30 with a maximum of 254 hit points when you ascended.
  2014-06-22.10\_02\_07.ttyrec.bz2 -- Ep.34 (76204-76326) -- Скучный менеджмент инвентаря. Попытка стать ненагруженным. Сомнения.   
  2014-06-22.17\_30\_25.ttyrec.bz2 -- Ep.35 END (76327-76878) -- Элементальные планы. Астральный план. Вознесение.   
      
-    
- <https://diary.ru/~zHz00/p198463850_nethack-yaap-junethack-2014.htm>   
-   
- Теги:   
- [[NetHack]]   
- [[Игры]]   
- ID: p198463850
+  
+<https://diary.ru/~zHz00/p198463850_nethack-yaap-junethack-2014.htm>  
+  
+Теги:  
+[[NetHack]]  
+[[Игры]]  
+ID: p198463850  
+
+
+(Комментариев нет)
+------------------

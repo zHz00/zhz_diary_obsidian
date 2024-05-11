@@ -1,11 +1,11 @@
 TOUHOU 8 SPECIAL
-=================
+================
 
-   
- 2012-01-02, 22:35   
-  Итак. Слишком много картинок стало, поэтому картинку с реплеями под кат:   
+  
+2012-01-02, 22:35  
+ Итак. Слишком много картинок стало, поэтому картинку с реплеями под кат:   
   [(картинка)](https://zHz00.diary.ru/p171217355.htm?index=1#linkmore171217355m1)      
-   [![](pics/3de2eaa74c2c.jpg)](https://www.pixiv.net/member_illust.php?mode=medium&illust_id=17183320)       
+   [![](pics/3de2eaa74c2c.jpg)](http://www.pixiv.net/member_illust.php?mode=medium&illust_id=17183320)       
   [(комментарии)](https://zHz00.diary.ru/p171217355.htm?index=3#linkmore171217355m3)      
   **th8\_udzh67.rpy: TOUHOU8 LUNATIC Reimu&Yukari FAIL (3) 202775550 от 2012/01/01**    
   **th8\_udzh65.rpy: TOUHOU8 LUNATIC Reimu&Yukari FAIL (4) 389984710 от 2012/01/01**    
@@ -23,9 +23,13 @@ TOUHOU 8 SPECIAL
   **th8\_udzh68.rpy: TOUHOU8 HARD (FINAL A) Reimu&Yukari 1CC 1430290980 от 2011/06/26**    
  2TC   
      
-    
- <https://diary.ru/~zHz00/p171217355_touhou-8-special.htm>   
-   
- Теги:   
- [[Touhou]]   
- ID: p171217355
+  
+<https://diary.ru/~zHz00/p171217355_touhou-8-special.htm>  
+  
+Теги:  
+[[Touhou]]  
+ID: p171217355  
+
+
+(Комментариев нет)
+------------------

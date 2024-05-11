@@ -1,9 +1,9 @@
 Fuujin monogatari 01-13 END [второй просмтр]
-=============================================
+============================================
 
-   
- 2015-05-13, 23:52   
-  ssvda говорил, что этот сериал "про девочку, нарисованную с помощью  [единичной функции](https://ru.wikipedia.org/wiki/%D0%A4%D1%83%D0%BD%D0%BA%D1%86%D0%B8%D1%8F_%D0%A5%D0%B5%D0%B2%D0%B8%D1%81%D0%B0%D0%B9%D0%B4%D0%B0)  ".   
+  
+2015-05-13, 23:52  
+ ssvda говорил, что этот сериал "про девочку, нарисованную с помощью  [единичной функции](https://ru.wikipedia.org/wiki/%D0%A4%D1%83%D0%BD%D0%BA%D1%86%D0%B8%D1%8F_%D0%A5%D0%B5%D0%B2%D0%B8%D1%81%D0%B0%D0%B9%D0%B4%D0%B0)  ".   
    
  Это сериал про то, как несколько лиц гражданской наружности умели управлять ветром. И его любили.   
    
@@ -16,33 +16,37 @@ Fuujin monogatari 01-13 END [второй просмтр]
  Подборка скриншотов:   
   [(смотреть)](https://zHz00.diary.ru/p204149940.htm?index=1#linkmore204149940m1)       
  Отблески солнца.   
-  [![](pics/Sxs1GJ5l.png)](https://i.imgur.com/Sxs1GJ5.png)    
+  [![](pics/Sxs1GJ5l.png)](http://i.imgur.com/Sxs1GJ5.png)    
  Это летающие коты.   
-  [![](pics/e25DB8Al.png)](https://i.imgur.com/e25DB8A.png)    
+  [![](pics/e25DB8Al.png)](http://i.imgur.com/e25DB8A.png)    
  Детская порнография. Запретить: 1/3.   
-  [![](pics/x4FurJ6l.png)](https://i.imgur.com/x4FurJ6.png)    
+  [![](pics/x4FurJ6l.png)](http://i.imgur.com/x4FurJ6.png)    
  О\_-   
-  [![](pics/loZPJ7ol.png)](https://i.imgur.com/loZPJ7o.png)    
+  [![](pics/loZPJ7ol.png)](http://i.imgur.com/loZPJ7o.png)    
  Они смотрят фильм ужасов.   
-  [![](pics/vGO8U1cl.png)](https://i.imgur.com/vGO8U1c.png)    
+  [![](pics/vGO8U1cl.png)](http://i.imgur.com/vGO8U1c.png)    
  Употребление наркотиков. Запретить: 2/3.   
-  [![](pics/DUEY06al.png)](https://i.imgur.com/DUEY06a.png)    
+  [![](pics/DUEY06al.png)](http://i.imgur.com/DUEY06a.png)    
  Очень красиво.   
-  [![](pics/TVjLR7Tl.png)](https://i.imgur.com/TVjLR7T.png)    
+  [![](pics/TVjLR7Tl.png)](http://i.imgur.com/TVjLR7T.png)    
   *"Тёплые коты летят по небу облаками, мысли переполнены мурчащими котами"*    
-  [![](pics/z3Wh61hl.png)](https://i.imgur.com/z3Wh61h.png)    
+  [![](pics/z3Wh61hl.png)](http://i.imgur.com/z3Wh61h.png)    
  Способы самоубийства. Запретить: 3/3. И... вы выиграли запрет на распространение на территории РФ!   
  (в данном случае ничего плохого с ними не случилось, т.к. они умеют управлять ветром и могут затормозить непосрдественно перед "посадкой")   
-  [![](pics/w8pAhoIl.png)](https://i.imgur.com/w8pAhoI.png)    
+  [![](pics/w8pAhoIl.png)](http://i.imgur.com/w8pAhoI.png)    
  Вот так в сериале изображается ветер. Статическое изображение, к сожалению, не в состоянии отобразить, как хорошо это сделано.   
-  [![](pics/GNehPSFl.png)](https://i.imgur.com/GNehPSF.png)    
+  [![](pics/GNehPSFl.png)](http://i.imgur.com/GNehPSF.png)    
    
       
    
  P.S. В PING PONG THE ANIMATION рисовка похожая.   
-    
- <https://diary.ru/~zHz00/p204149940_fuujin-monogatari-01-13-end-vtoroj-prosmtr.htm>   
-   
- Теги:   
- [[Аниме]]   
- ID: p204149940
+  
+<https://diary.ru/~zHz00/p204149940_fuujin-monogatari-01-13-end-vtoroj-prosmtr.htm>  
+  
+Теги:  
+[[Аниме]]  
+ID: p204149940  
+
+
+(Комментариев нет)
+------------------

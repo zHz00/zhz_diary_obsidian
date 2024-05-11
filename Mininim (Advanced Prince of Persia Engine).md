@@ -1,9 +1,9 @@
 Mininim (Advanced Prince of Persia Engine)
-===========================================
+==========================================
 
-   
- 2016-12-25, 22:51   
-   [oitofelix.github.io/mininim/](https://oitofelix.github.io/mininim/)    
+  
+2016-12-25, 22:51  
+  [oitofelix.github.io/mininim/](http://oitofelix.github.io/mininim/)    
    
  Вышел он ещё в феврале (2016), в марте выпустили обновление с некоторыми багфиксами.   
    
@@ -37,9 +37,13 @@ Mininim (Advanced Prince of Persia Engine)
  Короче говоря, штука очень достойная, рекомендую всем, кто хочет без шаманства вспомнить детство или просто узнать, во что играли  *деды*  .   
    
  P.S. Оказывается, слияние с тенью на двенадцатом уровне даёт дополнительную жизнь. Почему? Это та жизнь, которую тень выпила на пятом!   
-    
- <https://diary.ru/~zHz00/p211476291_mininim-advanced-prince-of-persia-engine.htm>   
-   
- Теги:   
- [[Игры]]   
- ID: p211476291
+  
+<https://diary.ru/~zHz00/p211476291_mininim-advanced-prince-of-persia-engine.htm>  
+  
+Теги:  
+[[Игры]]  
+ID: p211476291  
+
+
+(Комментариев нет)
+------------------

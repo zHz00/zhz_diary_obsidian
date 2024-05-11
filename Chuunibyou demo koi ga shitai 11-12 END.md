@@ -1,9 +1,9 @@
 Chuunibyou demo koi ga shitai 11-12 END
-========================================
+=======================================
 
-   
- 2013-01-29, 22:46   
-   [<<](Chuunibyou%20demo%20koi%20ga%20shitai%2005-10)    
+  
+2013-01-29, 22:46  
+  [<<](Chuunibyou%20demo%20koi%20ga%20shitai%2005-10)    
  Ниже возможны спойлеры.   
    
  Нельзя просто так взять... и избавиться от тю:нибё:.   
@@ -19,9 +19,30 @@ Chuunibyou demo koi ga shitai 11-12 END
  Скриншот только одни, т.к. подборку было делать лень.  [Nuclear Fusion](https://www.youtube.com/watch?v=sLTpJJAraG8&feature=player_detailpage#t=66s)  (CAUTION! BANISHMENT THIS WORLD!):   
    
    [![](pics/746193ce210at.jpg)](http://radikal.ru/F/i047.radikal.ru/1301/11/746193ce210a.png)     
-    
- <https://diary.ru/~zHz00/p184958891_chuunibyou-demo-koi-ga-shitai-11-12-end.htm>   
+  
+<https://diary.ru/~zHz00/p184958891_chuunibyou-demo-koi-ga-shitai-11-12-end.htm>  
+  
+Теги:  
+[[Аниме]]  
+ID: p184958891  
+
+
+Комментарии: 1
+--------------
+
+  
+
+
+---
+
+
+
+|         #         |              Дата              |                     Автор                     |           ID           |
+| --- | --- | --- | --- |
+| (1/1) | 2013-01-30, 08:27 | Гость | c625567654 |
+
+  
+  но осадок остался    
    
- Теги:   
- [[Аниме]]   
- ID: p184958891
+ но мы то понимаем   
+ ^c625567654

@@ -1,9 +1,9 @@
 Kawaikereba Hentai demo Suki ni Natte Kuremasu ka 01-12 END
-============================================================
+===========================================================
 
-   
- 2019-09-28, 23:59   
-   **О чём**    
+  
+2019-09-28, 23:59  
+  **О чём**    
    
  ОЯШ получил любовную записочку от неизвестного адресанта и весь сериал пытается выяснить, кто же это был. Кандидаток много, все поехавшие и все неровно дышат.   
    
@@ -56,9 +56,13 @@ Kawaikereba Hentai demo Suki ni Natte Kuremasu ka 01-12 END
    
   [![](pics/8TlQO2ul.png)](https://i.imgur.com/8TlQO2u.png)    
  Когда проснулся в одной постели с совершенно неожиданным человеком.      
-    
- <https://diary.ru/~zHz00/p218350654_kawaikereba-hentai-demo-suki-ni-natte-kuremasu-ka-01-12-end.htm>   
-   
- Теги:   
- [[Аниме]]   
- ID: p218350654
+  
+<https://diary.ru/~zHz00/p218350654_kawaikereba-hentai-demo-suki-ni-natte-kuremasu-ka-01-12-end.htm>  
+  
+Теги:  
+[[Аниме]]  
+ID: p218350654  
+
+
+(Комментариев нет)
+------------------

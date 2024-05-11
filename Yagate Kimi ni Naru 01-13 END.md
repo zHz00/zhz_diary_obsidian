@@ -1,9 +1,9 @@
 Yagate Kimi ni Naru 01-13 END
-==============================
+=============================
 
-   
- 2018-12-30, 23:59   
-    [![](pics/Vsavqpcl.png)](https://i.imgur.com/Vsavqpc.png)     
+  
+2018-12-30, 23:59  
+   [![](pics/Vsavqpcl.png)](https://i.imgur.com/Vsavqpc.png)     
  Думаете, это просто игрушечный телефон из ниточки и двух стаканчиков? А на самом деле тут зашит референс к известному азиатскому мему -- "  [красная нить судьбы](https://ru.wikipedia.org/wiki/%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D0%B0%D1%8F_%D0%BD%D0%B8%D1%82%D1%8C_%D1%81%D1%83%D0%B4%D1%8C%D0%B1%D1%8B)  ".   
    
   **О чём**    
@@ -55,9 +55,13 @@ Yagate Kimi ni Naru 01-13 END
    
   [![](pics/6xbtmy4l.jpg)](https://i.imgur.com/6xbtmy4.jpg)    
  Фи! Общество потребления!      
-    
- <https://diary.ru/~zHz00/p216891782_yagate-kimi-ni-naru-01-13-end.htm>   
-   
- Теги:   
- [[Аниме]]   
- ID: p216891782
+  
+<https://diary.ru/~zHz00/p216891782_yagate-kimi-ni-naru-01-13-end.htm>  
+  
+Теги:  
+[[Аниме]]  
+ID: p216891782  
+
+
+(Комментариев нет)
+------------------

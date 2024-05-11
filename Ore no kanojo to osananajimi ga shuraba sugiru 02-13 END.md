@@ -1,9 +1,9 @@
 Ore no kanojo to osananajimi ga shuraba sugiru 02-13 END
-=========================================================
+========================================================
 
-   
- 2013-04-29, 23:26   
-   [<<](Ore%20no%20kanojo%20to%20osananajimi%20ga%20shuraba%20sugiru%2001)    
+  
+2013-04-29, 23:26  
+  [<<](Ore%20no%20kanojo%20to%20osananajimi%20ga%20shuraba%20sugiru%2001)    
   **Присутствуют спойлеры по 7 тому орэ но имоото**    
    
  Все ждали 12 серий, а оказалось 13. Ну и ладно. Просто в последнее время часто бывает 12 вместо 13.   
@@ -25,9 +25,13 @@ Ore no kanojo to osananajimi ga shuraba sugiru 02-13 END
   [И ещё один](https://zHz00.diary.ru/p187648759.htm?index=2#linkmore187648759m2)     [![](pics/29876c9e1e7et.jpg)](http://radikal.ru/F/s018.radikal.ru/i517/1304/38/29876c9e1e7e.png.html)       
    
  Гори, сюраба!   
-    
- <https://diary.ru/~zHz00/p187648759_ore-no-kanojo-to-osananajimi-ga-shuraba-sugiru-02-13-end.htm>   
-   
- Теги:   
- [[Аниме]]   
- ID: p187648759
+  
+<https://diary.ru/~zHz00/p187648759_ore-no-kanojo-to-osananajimi-ga-shuraba-sugiru-02-13-end.htm>  
+  
+Теги:  
+[[Аниме]]  
+ID: p187648759  
+
+
+(Комментариев нет)
+------------------

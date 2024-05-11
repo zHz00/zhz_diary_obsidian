@@ -1,9 +1,9 @@
 Sword Art Online Alicization: War of Underworld S2 01-11 END
-=============================================================
+============================================================
 
-   
- 2021-01-15, 23:59   
-   **О чём**    
+  
+2021-01-15, 23:59  
+  **О чём**    
    
  О том же. Напоминаю, что War of Underworld прервали на самом интересном месте, а продолжение (окончание) выпустили только на следующий год. С одной стороны, это безобразие, а с другой -- его всё-таки выпустили. И теперь, хвала богам, самая длинная арка SAO вышла целиком.   
    
@@ -43,9 +43,13 @@ Sword Art Online Alicization: War of Underworld S2 01-11 END
   [![](pics/P87HtUNl.png)](https://i.imgur.com/P87HtUN.png)    
  Омэдэто!   
       
-    
- <https://diary.ru/~zHz00/p220365834_sword-art-online-alicization-war-of-underworld-s2-01-11-end.htm>   
-   
- Теги:   
- [[Аниме]]   
- ID: p220365834
+  
+<https://diary.ru/~zHz00/p220365834_sword-art-online-alicization-war-of-underworld-s2-01-11-end.htm>  
+  
+Теги:  
+[[Аниме]]  
+ID: p220365834  
+
+
+(Комментариев нет)
+------------------

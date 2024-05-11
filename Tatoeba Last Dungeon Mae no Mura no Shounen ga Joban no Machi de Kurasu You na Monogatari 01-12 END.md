@@ -1,9 +1,9 @@
 Tatoeba Last Dungeon Mae no Mura no Shounen ga Joban no Machi de Kurasu You na Monogatari 01-12 END
-====================================================================================================
+===================================================================================================
 
-   
- 2021-03-26, 23:59   
-   **О чём**    
+  
+2021-03-26, 23:59  
+  **О чём**    
    
   *Тогда Утгарда-Локи окинул взглядом скамьи и молвил в ответ: «Никого я тут не вижу, кто посчитал бы стоящим делом с тобою схватиться». И еще добавил: «Впрочем, пусть кликнут сюда Элли, старуху, что меня воспитала, и пускай Тор схватится с нею, если пожелает. Случалось ей одолевать людей, которые казались мне не слабее Тора».*    
    
@@ -53,9 +53,13 @@ Tatoeba Last Dungeon Mae no Mura no Shounen ga Joban no Machi de Kurasu You na M
   [![](pics/9DU9btIl.png)](https://i.imgur.com/9DU9btI.png)    
  Белая луна пустыни.   
       
-    
- <https://diary.ru/~zHz00/p220615300_tatoeba-last-dungeon-mae-no-mura-no-shounen-ga-joban-no-machi-de-kurasu-you-na-monogatari-01-12-end.htm>   
-   
- Теги:   
- [[Аниме]]   
- ID: p220615300
+  
+<https://diary.ru/~zHz00/p220615300_tatoeba-last-dungeon-mae-no-mura-no-shounen-ga-joban-no-machi-de-kurasu-you-na-monogatari-01-12-end.htm>  
+  
+Теги:  
+[[Аниме]]  
+ID: p220615300  
+
+
+(Комментариев нет)
+------------------

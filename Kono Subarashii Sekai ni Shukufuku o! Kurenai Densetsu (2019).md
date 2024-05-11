@@ -1,9 +1,9 @@
 Kono Subarashii Sekai ni Shukufuku o! Kurenai Densetsu (2019)
-==============================================================
+=============================================================
 
-   
- 2020-06-13, 23:59   
-   **О чём**    
+  
+2020-06-13, 23:59  
+  **О чём**    
    
  Кадзума собирался трахнуть Юн-юн и Мегумин, но вместо этого чуть не трахнули его самого. Совершенно посторонние личности.   
    
@@ -37,9 +37,13 @@ Kono Subarashii Sekai ni Shukufuku o! Kurenai Densetsu (2019)
   [![](pics/oWaspMjl.jpg)](https://i.imgur.com/oWaspMj.jpg)    
  Войну превращают в тоохоо-балаган.   
       
-    
- <https://diary.ru/~zHz00/p219561928_kono-subarashii-sekai-ni-shukufuku-o-kurenai-densetsu-2019.htm>   
-   
- Теги:   
- [[Аниме]]   
- ID: p219561928
+  
+<https://diary.ru/~zHz00/p219561928_kono-subarashii-sekai-ni-shukufuku-o-kurenai-densetsu-2019.htm>  
+  
+Теги:  
+[[Аниме]]  
+ID: p219561928  
+
+
+(Комментариев нет)
+------------------

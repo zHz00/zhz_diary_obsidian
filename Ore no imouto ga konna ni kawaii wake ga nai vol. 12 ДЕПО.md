@@ -1,9 +1,9 @@
 Ore no imouto ga konna ni kawaii wake ga nai vol. 12 ДЕПО
-==========================================================
+=========================================================
 
-   
- 2013-06-27, 00:50   
-    *"In here is a tragedy---   
+  
+2013-06-27, 00:50  
+   *"In here is a tragedy---   
  art thou player or audience?   
  Be as it may, the end doth remain:   
  all go on only toward death.*    
@@ -33,10 +33,14 @@ Ore no imouto ga konna ni kawaii wake ga nai vol. 12 ДЕПО
  Всё это ради чего?*    
    
  P.S. А вот и пересказ г-на himeslf'а --  [himself.diary.ru/p189191768.htm](http://himself.diary.ru/p189191768.htm)  .   
-    
- <https://diary.ru/~zHz00/p189426928_ore-no-imouto-ga-konna-ni-kawaii-wake-ga-nai-vol-12-depo.htm>   
-   
- Теги:   
- [[Японский язык]]   
- [[Книги]]   
- ID: p189426928
+  
+<https://diary.ru/~zHz00/p189426928_ore-no-imouto-ga-konna-ni-kawaii-wake-ga-nai-vol-12-depo.htm>  
+  
+Теги:  
+[[Японский язык]]  
+[[Книги]]  
+ID: p189426928  
+
+
+(Комментариев нет)
+------------------

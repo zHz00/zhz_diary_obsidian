@@ -1,9 +1,9 @@
 Kaguya-sama wa Kokurasetai? Tensai-tachi no Ren'ai Zunousen S2 01-12 END
-=========================================================================
+========================================================================
 
-   
- 2020-11-27, 23:59   
-   **О чём**    
+  
+2020-11-27, 23:59  
+  **О чём**    
    
  Почти о том же. Продолжение  [первого сезона](Kaguya-sama%20wa%20Kokurasetai%20Tensai-tachi%20no%20Ren`ai%20Zunousen%2001-12%20END)  .   
    
@@ -41,9 +41,13 @@ Kaguya-sama wa Kokurasetai? Tensai-tachi no Ren'ai Zunousen S2 01-12 END
    
   [![](pics/yZ5nF05l.png)](https://i.imgur.com/yZ5nF05.png)    
  Paint it, black.      
-    
- <https://diary.ru/~zHz00/p220186553_kaguya-sama-wa-kokurasetai-tensai-tachi-no-renai-zunousen-s2-01-12-end.htm>   
-   
- Теги:   
- [[Аниме]]   
- ID: p220186553
+  
+<https://diary.ru/~zHz00/p220186553_kaguya-sama-wa-kokurasetai-tensai-tachi-no-renai-zunousen-s2-01-12-end.htm>  
+  
+Теги:  
+[[Аниме]]  
+ID: p220186553  
+
+
+(Комментариев нет)
+------------------

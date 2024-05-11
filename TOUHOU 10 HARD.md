@@ -1,11 +1,11 @@
 TOUHOU 10 HARD
-===============
+==============
 
+  
+2011-10-18, 23:45  
+ 1st time clear. Реплей в картинке. А ещё в картинке оригинал картинки.   
    
- 2011-10-18, 23:45   
-  1st time clear. Реплей в картинке. А ещё в картинке оригинал картинки.   
-   
-   [![](pics/741769ac72ad.jpg)](https://www.pixiv.net/member_illust.php?mode=medium&illust_id=22424670)     
+   [![](pics/741769ac72ad.jpg)](http://www.pixiv.net/member_illust.php?mode=medium&illust_id=22424670)     
   **th10\_25.rpy: TOUHOU10 HARD ReimuA 283015890 1CC от 2011/10/16**    
   Напоминаю, что Touhou 10 не поддерживает юзер-реплеи.    
  Все экстенды получены (6), 7 миссов, 55 бомб (8 дес-бомб), 7 карт поймано (из 25).   
@@ -20,9 +20,13 @@ TOUHOU 10 HARD
      
  Вообще, тема Санаэ (стейдж 5) шикарна, вот любимое исполнение:   
   [幽閉サテライト // 不可逆的ネクサス [yuuhei sattelite // fukagyakuteki nexus]](https://www.youtube.com/watch?v=7htWSpUXuew)    
-    
- <https://diary.ru/~zHz00/p168128424_touhou-10-hard.htm>   
-   
- Теги:   
- [[Touhou]]   
- ID: p168128424
+  
+<https://diary.ru/~zHz00/p168128424_touhou-10-hard.htm>  
+  
+Теги:  
+[[Touhou]]  
+ID: p168128424  
+
+
+(Комментариев нет)
+------------------

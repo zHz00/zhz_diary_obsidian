@@ -1,9 +1,9 @@
 JLPT -- регистрация
-====================
+===================
 
-   
- 2011-09-10, 19:47   
-   [Что такое JLPT](https://ru.wikipedia.org/wiki/JLPT)    
+  
+2011-09-10, 19:47  
+  [Что такое JLPT](https://ru.wikipedia.org/wiki/JLPT)    
   *Если вы сюда пришли, чтобы узнать о регистрации на зимний экзамен 2012, то вы пришли не туда. Вам сюда:*    
   [jpfmw.ru/ru/events-archive/ekzamen-po-opredelen...](http://jpfmw.ru/ru/events-archive/ekzamen-po-opredeleniyu-urovnya-yaponskogo-yazyika-noryoku-siken-zima-2011.html)    
    
@@ -29,9 +29,13 @@ JLPT -- регистрация
    
  P.S. Ах да, я забыл сказать, что всё это время моросил дождь, что добавило острых ощущений.   
   [>>](JLPT%20--%20подготовка)    
-    
- <https://diary.ru/~zHz00/p166640591_jlpt-registraciya.htm>   
-   
- Теги:   
- [[Японский язык]]   
- ID: p166640591
+  
+<https://diary.ru/~zHz00/p166640591_jlpt-registraciya.htm>  
+  
+Теги:  
+[[Японский язык]]  
+ID: p166640591  
+
+
+(Комментариев нет)
+------------------

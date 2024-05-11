@@ -1,9 +1,9 @@
 Robotics;Notes 01-22 END
-=========================
+========================
 
-   
- 2014-05-22, 22:40   
-    *And the science gets done   
+  
+2014-05-22, 22:40  
+   *And the science gets done   
  And you make a neat gun   
  For the people who are still alive.   
    
@@ -32,9 +32,13 @@ Robotics;Notes 01-22 END
  3. Хотя администратор и Кимидзима Ко:, но у него везде стоит один и тот же пароль. Можно было попробовать залогиниться с его помощью.   
    
  Алсо, тема монополей не раскрыта.   
-    
- <https://diary.ru/~zHz00/p197670573_robotics-notes-01-22-end.htm>   
-   
- Теги:   
- [[Аниме]]   
- ID: p197670573
+  
+<https://diary.ru/~zHz00/p197670573_robotics-notes-01-22-end.htm>  
+  
+Теги:  
+[[Аниме]]  
+ID: p197670573  
+
+
+(Комментариев нет)
+------------------

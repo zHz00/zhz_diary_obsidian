@@ -1,9 +1,9 @@
 CEdit 3d-look / Трёхмерный CEdit
-=================================
+================================
 
-   
- 2011-11-15, 12:31   
-   *How to make 3D-look for dynamically created CEdit?   
+  
+2011-11-15, 12:31  
+  *How to make 3D-look for dynamically created CEdit?   
  Как сделать трёхмерный CEdit, когда он создаётся динамически?*    
    
  Read in English a little below.   
@@ -16,11 +16,11 @@ CEdit 3d-look / Трёхмерный CEdit
  I was using MFC (waratte mo ii yo) and I had to make some CEdit edit-fields at runtime, create it dynamically. I wrote:   
  
 ```
-dlg\_data[ix].m\_edtField->Create(  
-	(bVis?WS\_VISIBLE:0)|ES\_NUMBER|ES\_RIGHT,  
+dlg_data[ix].m_edtField->Create(  
+	(bVis?WS_VISIBLE:0)|ES_NUMBER|ES_RIGHT,  
 	rRect,  
 	this,  
-	dlg\_data[ix].m\_nedtFieldID);
+	dlg_data[ix].m_nedtFieldID);
 ```
    
  where:   
@@ -37,11 +37,11 @@ dlg\_data[ix].m\_edtField->Create(
  I read some documentation and decided to use WS\_BORDER, so I modified sentense:   
  
 ```
-dlg\_data[ix].m\_edtField->Create(  
-	(bVis?WS\_VISIBLE:0)|ES\_NUMBER|ES\_RIGHT|WS\_BORDER,  
+dlg_data[ix].m_edtField->Create(  
+	(bVis?WS_VISIBLE:0)|ES_NUMBER|ES_RIGHT|WS_BORDER,  
 	rRect,  
 	this,  
-	dlg\_data[ix].m\_nedtFieldID);
+	dlg_data[ix].m_nedtFieldID);
 ```
    
  The border appeared, but it was plain, like this:   
@@ -49,11 +49,11 @@ dlg\_data[ix].m\_edtField->Create(
  I wanted 3D-looking border. I read a little more, and understood, that I need to set the so-called "extended window style". The value must be WS\_EX\_CLIENTEDGE. I replaced WS\_BORDER with this:   
  
 ```
-dlg\_data[ix].m\_edtField->Create(  
-	(bVis?WS\_VISIBLE:0)|ES\_NUMBER|ES\_RIGHT|WS\_EX\_CLIENTEDGE,  
+dlg_data[ix].m_edtField->Create(  
+	(bVis?WS_VISIBLE:0)|ES_NUMBER|ES_RIGHT|WS_EX_CLIENTEDGE,  
 	rRect,  
 	this,  
-	dlg\_data[ix].m\_nedtFieldID);
+	dlg_data[ix].m_nedtFieldID);
 ```
    
    
@@ -62,27 +62,27 @@ dlg\_data[ix].m\_edtField->Create(
  I learned, that extended window style can be set only in special parameter by using CerateEx(...), not usual Create(...). So I wrote:   
  
 ```
-dlg\_data[ix].m\_edtField->CreateEx(  
-	WS\_EX\_CLIENTEDGE,  
-	"WCLASS\_EDIT1",  
-	"PREFIX\_EDIT1",  
-	(bVis?WS\_VISIBLE:0)|ES\_NUMBER|ES\_RIGHT,  
+dlg_data[ix].m_edtField->CreateEx(  
+	WS_EX_CLIENTEDGE,  
+	"WCLASS_EDIT1",  
+	"PREFIX_EDIT1",  
+	(bVis?WS_VISIBLE:0)|ES_NUMBER|ES_RIGHT,  
 	rRect,  
 	this,  
-	dlg\_data[ix].m\_nedtFieldID);
+	dlg_data[ix].m_nedtFieldID);
 ```
    
  This obviously won't work, because I didn't register WCLASS\_EDIT1 windows class. I tried to register it, then I tried NULL and then I tried the standard "edit" class (I must begin with it =( ):   
  
 ```
-dlg\_data[ix].m\_edtField->CreateEx(  
-	WS\_EX\_CLIENTEDGE,  
+dlg_data[ix].m_edtField->CreateEx(  
+	WS_EX_CLIENTEDGE,  
 	"edit",  
-	"PREFIX\_EDIT1",  
-	(bVis?WS\_VISIBLE:0)|ES\_NUMBER|ES\_RIGHT,  
+	"PREFIX_EDIT1",  
+	(bVis?WS_VISIBLE:0)|ES_NUMBER|ES_RIGHT,  
 	rRect,  
 	this,  
-	dlg\_data[ix].m\_nedtFieldID);
+	dlg_data[ix].m_nedtFieldID);
 ```
    
    
@@ -93,12 +93,12 @@ dlg\_data[ix].m\_edtField->CreateEx(
  I gave up with CreateEx, and returned to usual Create, because I learned the great function ModifyStyleEx. This function modifies extended style on-the-fly! I decided to use it. So I wrote:   
  
 ```
-dlg\_data[ix].m\_edtField->Create(  
-	(bVis?WS\_VISIBLE:0)|ES\_NUMBER|ES\_RIGHT,  
+dlg_data[ix].m_edtField->Create(  
+	(bVis?WS_VISIBLE:0)|ES_NUMBER|ES_RIGHT,  
 	rRect,  
 	this,  
-	dlg\_data[ix].m\_nedtFieldID);  
-dlg\_data[ix].m\_edtField->ModifyStyleEx(0,WS\_EX\_CLIENTEDGE);
+	dlg_data[ix].m_nedtFieldID);  
+dlg_data[ix].m_edtField->ModifyStyleEx(0,WS_EX_CLIENTEDGE);
 ```
    
    
@@ -131,11 +131,11 @@ dlg\_data[ix].m\_edtField->ModifyStyleEx(0,WS\_EX\_CLIENTEDGE);
  Вы будете смеяться, но мне приходится использовать MFC (2011 год на дворе!). Задача была в том, чтобы создать на лету несколько CEdit. Я написал:   
  
 ```
-dlg\_data[ix].m\_edtField->Create(  
-	(bVis?WS\_VISIBLE:0)|ES\_NUMBER|ES\_RIGHT,  
+dlg_data[ix].m_edtField->Create(  
+	(bVis?WS_VISIBLE:0)|ES_NUMBER|ES_RIGHT,  
 	rRect,  
 	this,  
-	dlg\_data[ix].m\_nedtFieldID);
+	dlg_data[ix].m_nedtFieldID);
 ```
    
  где:   
@@ -152,11 +152,11 @@ dlg\_data[ix].m\_edtField->Create(
  Я почитал документацию и решил использовать WS\_BORDER, получилось вот что:   
  
 ```
-dlg\_data[ix].m\_edtField->Create(  
-	(bVis?WS\_VISIBLE:0)|ES\_NUMBER|ES\_RIGHT|WS\_BORDER,  
+dlg_data[ix].m_edtField->Create(  
+	(bVis?WS_VISIBLE:0)|ES_NUMBER|ES_RIGHT|WS_BORDER,  
 	rRect,  
 	this,  
-	dlg\_data[ix].m\_nedtFieldID);
+	dlg_data[ix].m_nedtFieldID);
 ```
    
    
@@ -165,11 +165,11 @@ dlg\_data[ix].m\_edtField->Create(
  Я же хотел обычную трёхмерную. Я почитал ещё немного и понял, что мне нужно установить так называемый "расширенный стиль окна" ("extended window style"). Установить его надо в WS\_EX\_CLIENTEDGE. Я заменил WS\_BORDER:   
  
 ```
-dlg\_data[ix].m\_edtField->Create(  
-	(bVis?WS\_VISIBLE:0)|ES\_NUMBER|ES\_RIGHT|WS\_EX\_CLIENTEDGE,  
+dlg_data[ix].m_edtField->Create(  
+	(bVis?WS_VISIBLE:0)|ES_NUMBER|ES_RIGHT|WS_EX_CLIENTEDGE,  
 	rRect,  
 	this,  
-	dlg\_data[ix].m\_nedtFieldID);
+	dlg_data[ix].m_nedtFieldID);
 ```
    
    
@@ -178,27 +178,27 @@ dlg\_data[ix].m\_edtField->Create(
  Я узнал, что расширенный стиль окна может быть установлен, но не в том же параметре, где обычный стиль, а в другом, специальном и использовать надо CerateEx(...), а не обычный Create(...). Так что я написал:   
  
 ```
-dlg\_data[ix].m\_edtField->CreateEx(  
-	WS\_EX\_CLIENTEDGE,  
-	"WCLASS\_EDIT1",  
-	"PREFIX\_EDIT1",  
-	(bVis?WS\_VISIBLE:0)|ES\_NUMBER|ES\_RIGHT,  
+dlg_data[ix].m_edtField->CreateEx(  
+	WS_EX_CLIENTEDGE,  
+	"WCLASS_EDIT1",  
+	"PREFIX_EDIT1",  
+	(bVis?WS_VISIBLE:0)|ES_NUMBER|ES_RIGHT,  
 	rRect,  
 	this,  
-	dlg\_data[ix].m\_nedtFieldID);
+	dlg_data[ix].m_nedtFieldID);
 ```
    
  Очевидно, это не заработало, ведь я не зарегистрировал класс окна WCLASS\_EDIT1. Я попробовал его зарегистрировать, потом написать NULL, а потом я попробовал стандартный класс окна "edit" (с этого надо было начинать =( ):   
  
 ```
-dlg\_data[ix].m\_edtField->CreateEx(  
-	WS\_EX\_CLIENTEDGE,  
+dlg_data[ix].m_edtField->CreateEx(  
+	WS_EX_CLIENTEDGE,  
 	"edit",  
-	"PREFIX\_EDIT1",  
-	(bVis?WS\_VISIBLE:0)|ES\_NUMBER|ES\_RIGHT,  
+	"PREFIX_EDIT1",  
+	(bVis?WS_VISIBLE:0)|ES_NUMBER|ES_RIGHT,  
 	rRect,  
 	this,  
-	dlg\_data[ix].m\_nedtFieldID);
+	dlg_data[ix].m_nedtFieldID);
 ```
    
    
@@ -209,12 +209,12 @@ dlg\_data[ix].m\_edtField->CreateEx(
  Я плюнул на CreateEx, и вернулся к обычному Create, ведь я узнал о замечательной функции ModifyStyleEx. Она позволяет менять расширенный стиль прямо на лету! Я решил использовать её. Я написал:   
  
 ```
-dlg\_data[ix].m\_edtField->Create(  
-	(bVis?WS\_VISIBLE:0)|ES\_NUMBER|ES\_RIGHT,  
+dlg_data[ix].m_edtField->Create(  
+	(bVis?WS_VISIBLE:0)|ES_NUMBER|ES_RIGHT,  
 	rRect,  
 	this,  
-	dlg\_data[ix].m\_nedtFieldID);  
-dlg\_data[ix].m\_edtField->ModifyStyleEx(0,WS\_EX\_CLIENTEDGE);
+	dlg_data[ix].m_nedtFieldID);  
+dlg_data[ix].m_edtField->ModifyStyleEx(0,WS_EX_CLIENTEDGE);
 ```
    
    
@@ -229,25 +229,56 @@ dlg\_data[ix].m\_edtField->ModifyStyleEx(0,WS\_EX\_CLIENTEDGE);
    
  
 ```
-dlg\_data[ix].m\_edtField->CreateEx(  
-	WS\_EX\_CLIENTEDGE,  
+dlg_data[ix].m_edtField->CreateEx(  
+	WS_EX_CLIENTEDGE,  
 	"edit",  
-	"PREFIX\_EDIT1",  
-	(bVis?WS\_VISIBLE:0)|ES\_NUMBER|ES\_RIGHT|WS\_CHILD,  
+	"PREFIX_EDIT1",  
+	(bVis?WS_VISIBLE:0)|ES_NUMBER|ES_RIGHT|WS_CHILD,  
 	rRect,  
 	this,  
-	dlg\_data[ix].m\_nedtFieldID);
+	dlg_data[ix].m_nedtFieldID);
 ```
    
    
  Это работает:   
   ![](pics/fd8385a631cb.png)    
      
-    
- <https://diary.ru/~zHz00/p169267469_cedit-3d-look-tryohmernyj-cedit.htm>   
-   
- Теги:   
- [[Программирование]]   
- [[Борьба с техникой]]   
- [[Статьи]]   
- ID: p169267469
+  
+<https://diary.ru/~zHz00/p169267469_cedit-3d-look-tryohmernyj-cedit.htm>  
+  
+Теги:  
+[[Программирование]]  
+[[Борьба с техникой]]  
+[[Статьи]]  
+ID: p169267469  
+
+
+Комментарии: 2
+--------------
+
+  
+
+
+---
+
+
+
+|         #         |              Дата              |                     Автор                     |           ID           |
+| --- | --- | --- | --- |
+| (1/2) | 2013-03-16, 17:22 | Гость | c630335773 |
+
+  
+ Огромное спасибо. Провозился больше часа, поперенаступал на те же самые грабли, пока не попалась этот совет.   
+ ^c630335773
+
+---
+
+
+
+|         #         |              Дата              |                     Автор                     |           ID           |
+| --- | --- | --- | --- |
+| (2/2) | 2013-03-16, 18:24 | zHz00 | c630341493 |
+
+  
+  **Гость**  , дык. MFC сурово.   
+ ^c630341493

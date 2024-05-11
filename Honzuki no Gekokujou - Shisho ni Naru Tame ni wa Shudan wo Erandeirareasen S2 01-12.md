@@ -1,9 +1,9 @@
 Honzuki no Gekokujou - Shisho ni Naru Tame ni wa Shudan wo Erandeirareasen S2 01-12
-====================================================================================
+===================================================================================
 
-   
- 2021-07-01, 01:47   
-  А END я в заголовке написать не смог, потому что длину заголовка ограничили!   
+  
+2021-07-01, 01:47  
+ А END я в заголовке написать не смог, потому что длину заголовка ограничили!   
    
  Столько аниме посмотрел, а постов не сделал. Вот, значит, у нас второй сезон восхождение книжного щита, то есть червя.   
    
@@ -50,9 +50,13 @@ Honzuki no Gekokujou - Shisho ni Naru Tame ni wa Shudan wo Erandeirareasen S2 01
    
       
  [конец]   
-    
- <https://diary.ru/~zHz00/p220777884_honzuki-no-gekokujou-shisho-ni-naru-tame-ni-wa-shudan-wo-erandeirareasen-s2-01-12.htm>   
-   
- Теги:   
- [[Аниме]]   
- ID: p220777884
+  
+<https://diary.ru/~zHz00/p220777884_honzuki-no-gekokujou-shisho-ni-naru-tame-ni-wa-shudan-wo-erandeirareasen-s2-01-12.htm>  
+  
+Теги:  
+[[Аниме]]  
+ID: p220777884  
+
+
+(Комментариев нет)
+------------------

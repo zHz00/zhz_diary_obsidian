@@ -1,9 +1,9 @@
 NetHack: Набор для вознесения (2/2)
-====================================
+===================================
 
-   
- 2022-12-02, 01:11   
-  Оригинал:  [nethackwiki.com/wiki/Ascension\_kit](https://nethackwiki.com/wiki/Ascension_kit)    
+  
+2022-12-02, 01:11  
+ Оригинал:  [nethackwiki.com/wiki/Ascension\_kit](https://nethackwiki.com/wiki/Ascension_kit)    
    
  Первая часть:  [zhz00.diary.ru/p221418684.htm](NetHack%20Набор%20для%20вознесения%20(12))    
    
@@ -86,11 +86,15 @@ NetHack: Набор для вознесения (2/2)
  -- Палочка открытия (wand of opening), поскольку колдующие мобы обожают кастовать "наказание" (punishment)   
  -- Трупов ящериц надо держать как можно больше, в открытом инвентаре должно быть минимум два   
  -- Очень полезными оказываются кольца поддержания атрибутов (ring of sustain ability) и защиты от превращающихся существ (ring of protection from shape changers)     
-    
- <https://diary.ru/~zHz00/p221418711_nethack-nabor-dlya-vozneseniya-2-2.htm>   
-   
- Теги:   
- [[Переводы]]   
- [[NetHack]]   
- [[Статьи]]   
- ID: p221418711
+  
+<https://diary.ru/~zHz00/p221418711_nethack-nabor-dlya-vozneseniya-2-2.htm>  
+  
+Теги:  
+[[Переводы]]  
+[[NetHack]]  
+[[Статьи]]  
+ID: p221418711  
+
+
+(Комментариев нет)
+------------------

@@ -1,9 +1,9 @@
 NetHack: я не волшебник, я только учусь
-========================================
+=======================================
 
-   
- 2014-01-08, 18:24   
-   *Статья описывает так называемый wizard mode в NetHack. Указаны основные функции, особенности, области применения. Проведёно сравнение с режимом исследования (explore mode).*    
+  
+2014-01-08, 18:24  
+  *Статья описывает так называемый wizard mode в NetHack. Указаны основные функции, особенности, области применения. Проведёно сравнение с режимом исследования (explore mode).*    
    
   [(читать дальше)](https://zHz00.diary.ru/p194493970.htm?index=1#linkmore194493970m1)      
   **1 Введение**    
@@ -137,7 +137,54 @@ NetHack: я не волшебник, я только учусь
  
 ```
 The Dungeons of Doom: levels 1 to 28  
-   One way stair to The Elemental Planes: 1<br>   Stair to The Gnomish Mines: 3 // лестница в Гномьи Шахты<br>   oracle: 5 // Оракул<br>   Stair to Sokoban: 6 // Лестница в Сокобан<br>   Portal to The Quest: 12 // Портал в Квест<br>   bigrm: 12 // Big Room -- Большая Комната<br>   rogue: 15 // Rogue-level -- Rogue-уровень<br>   medusa: 26 // Медуза<br>   Connection to Gehennom: 28 // Выход в Геенну<br>   castle: 28 (tune FCBEB) // Уровень, где замок -- заметьте, дополнительно указывается мелодия открытия<br>Gehennom: levels 29 to 50<br>   valley: 29 // Valley of the Dead -- долина мёртвых<br>   juiblex: 32 // болото Джуиблекса<br>   asmodeus: 34 // Асмодей<br>   baalz: 36 // Вельзевул<br>   Stair to Vlad's Tower: 37 // Выход в башню Влада (растёт вверх)<br>   orcus: 38 // Город Оркуса<br>   wizard1: 44 // три уровня башни волшебника<br>   wizard2: 45 // то же<br>   wizard3: 46 // то же<br>   fakewiz1: 47 // фальшивая башня 1<br>   fakewiz2: 48 // фальшивая башня 2 (в одной из них вход в настоящую)<br>   sanctum: 50 // Санктум -- там амулет<br>The Gnomish Mines: levels 4 to 11 // Гномьи шахты<br>   minetn: 6 // Город Шахт<br>   minend: 11 // Конец Шахт<br>The Quest: levels 12 to 17 // Квест<br>   Wiz-strt: 12 // Начало<br>   Wiz-loca: 14 // Середина<br>   Wiz-goal: 17 // Конец<br>Sokoban: levels 2 to 5, entrance from below // Сокобан<br>   soko1: 2<br>   soko2: 3<br>   soko3: 4<br>   soko4: 5<br>Fort Ludios: level 19 // Форт Луидос<br>   knox: 19<br>Vlad's Tower: levels 34 to 36, entrance from below // Башня Влада<br>   tower1: 34<br>The Elemental Planes: levels -5 to 0, entrance on -1 // Элементальные планы<br>   astral: -5<br>   water: -4<br>   fire: -3<br>   air: -2<br>   earth: -1<br>   dummy: 0<br><br>Floating branches  
+   One way stair to The Elemental Planes: 1
+   Stair to The Gnomish Mines: 3 // лестница в Гномьи Шахты
+   oracle: 5 // Оракул
+   Stair to Sokoban: 6 // Лестница в Сокобан
+   Portal to The Quest: 12 // Портал в Квест
+   bigrm: 12 // Big Room -- Большая Комната
+   rogue: 15 // Rogue-level -- Rogue-уровень
+   medusa: 26 // Медуза
+   Connection to Gehennom: 28 // Выход в Геенну
+   castle: 28 (tune FCBEB) // Уровень, где замок -- заметьте, дополнительно указывается мелодия открытия
+Gehennom: levels 29 to 50
+   valley: 29 // Valley of the Dead -- долина мёртвых
+   juiblex: 32 // болото Джуиблекса
+   asmodeus: 34 // Асмодей
+   baalz: 36 // Вельзевул
+   Stair to Vlad's Tower: 37 // Выход в башню Влада (растёт вверх)
+   orcus: 38 // Город Оркуса
+   wizard1: 44 // три уровня башни волшебника
+   wizard2: 45 // то же
+   wizard3: 46 // то же
+   fakewiz1: 47 // фальшивая башня 1
+   fakewiz2: 48 // фальшивая башня 2 (в одной из них вход в настоящую)
+   sanctum: 50 // Санктум -- там амулет
+The Gnomish Mines: levels 4 to 11 // Гномьи шахты
+   minetn: 6 // Город Шахт
+   minend: 11 // Конец Шахт
+The Quest: levels 12 to 17 // Квест
+   Wiz-strt: 12 // Начало
+   Wiz-loca: 14 // Середина
+   Wiz-goal: 17 // Конец
+Sokoban: levels 2 to 5, entrance from below // Сокобан
+   soko1: 2
+   soko2: 3
+   soko3: 4
+   soko4: 5
+Fort Ludios: level 19 // Форт Луидос
+   knox: 19
+Vlad's Tower: levels 34 to 36, entrance from below // Башня Влада
+   tower1: 34
+The Elemental Planes: levels -5 to 0, entrance on -1 // Элементальные планы
+   astral: -5
+   water: -4
+   fire: -3
+   air: -2
+   earth: -1
+   dummy: 0
+
+Floating branches  
    Portal to Fort Ludios
 ```
    
@@ -309,13 +356,13 @@ Current time = 2063.
 Active timeout queue:  
   
 timeout  id   kind   call  
- 2066     68  object revive\_mon(00C9BDE0)  
- 2167     64  object burn\_object(00AEF018)  
- 2202     65  object hatch\_egg(00AE9678)  
- 2209     66  object hatch\_egg(00C9BD28)  
- 2288     63  object rot\_corpse(00AEEFA8)  
- 2406     69  object rot\_organic(00C9BE50)  
- 10399     70  object fig\_transform(00C9BF38)
+ 2066     68  object revive_mon(00C9BDE0)  
+ 2167     64  object burn_object(00AEF018)  
+ 2202     65  object hatch_egg(00AE9678)  
+ 2209     66  object hatch_egg(00C9BD28)  
+ 2288     63  object rot_corpse(00AEEFA8)  
+ 2406     69  object rot_organic(00C9BE50)  
+ 10399     70  object fig_transform(00C9BF38)
 ```
    
    
@@ -655,14 +702,18 @@ F|R
 
    
    
- В случае, если когда-либо nethackwiki перестанет работать, её материалы можно найти в Архиве Интернета:  [web.archive.org/](https://web.archive.org/)    
- Связаться с автором можно по адресу  [mailto:  [email protected]](/cdn-cgi/l/email-protection#e3998b99d3d3a391828e818f8691cd9196)  .   
+ В случае, если когда-либо nethackwiki перестанет работать, её материалы можно найти в Архиве Интернета:  [web.archive.org/](http://web.archive.org/)    
+ Связаться с автором можно по адресу  [mailto:  [email protected]](/cdn-cgi/l/email-protection#7b0113014b4b3b091a1619171e0955090e)  .   
      
-    
- <https://diary.ru/~zHz00/p194493970_nethack-ya-ne-volshebnik-ya-tolko-uchus.htm>   
-   
- Теги:   
- [[NetHack]]   
- [[Игры]]   
- [[Статьи]]   
- ID: p194493970
+  
+<https://diary.ru/~zHz00/p194493970_nethack-ya-ne-volshebnik-ya-tolko-uchus.htm>  
+  
+Теги:  
+[[NetHack]]  
+[[Игры]]  
+[[Статьи]]  
+ID: p194493970  
+
+
+(Комментариев нет)
+------------------
